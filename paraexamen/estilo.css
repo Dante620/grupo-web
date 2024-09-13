@@ -1,0 +1,17 @@
+lu li{
+
+    list-style-type: none;
+}
+lu{
+    display: flex;
+}
+lu li button{
+    margin: 10px;
+    height: 50px;
+    width: 50px;
+}
+input{
+    margin-left: 10px;
+    width: 260px;
+
+}
